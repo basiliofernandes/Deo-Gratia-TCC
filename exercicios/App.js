@@ -4,7 +4,7 @@
     
       export default props => {
       	return (
-        	<Text style={Estilo.txtG}>Exemplo
+        	<Text style={Estilo.txtG}>Mônica melhor professora
 
             </Text>
 

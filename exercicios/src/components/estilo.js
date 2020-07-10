@@ -4,7 +4,7 @@ export default StyleSheet.create({
     txtG: {
         fontSize: 32,
         textAlign: "center",
-        backgroundColor: "#007",
+        backgroundColor: "#836FFF",
         justifyContent: "center",
         alignItems: "center",
         padding: 100
